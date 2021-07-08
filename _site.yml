@@ -1,0 +1,12 @@
+name: "Evan E. Mitton"
+navbar: 
+  title: "Evan E. Mitton"
+  left: 
+    - text: "Home"
+      href: index.html
+    
+output: 
+  html_document:
+    theme: sandstone
+output_dir: "."
+    
